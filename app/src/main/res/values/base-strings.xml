@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright 2013 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+    <string name="app_name">PlacePicker</string>
+    <string name="intro_message">
+        <![CDATA[
+        
+            Η εφαρμογή στηρίχτηκε στη διπλωματική της φοιτήτριας Ιωάννας-Αννίτας Μεσαλά, με τίτλο
+            "Marketing μικρομεσαίων επιχειρήσεων μέσω διαδικτύου" κι επιβλέπων καθηγητή τον κύριο
+            Ιωάννη Σταματίου.
+            H εφαρμόγη μας χρησιμοποιεί το Place.Builder ώστε να συνθέσει και να παρουσιάσει
+            τα βασικά συστατικά οποιουδήποτε μέρους επιθυμεί ο χρήστης να επισκεφτεί.
+            Μέσα της εφαρμογής PlacePicker δίνεται η δυνατότητα ανάκτησης πληροφοριών ακόμα
+            και των πιο μικρών τοπικών επιχειρήσεων, καθώς οι χρήστες μπορούν να έχουν πρόσβαση ανά
+            πάσα στιγμή σε αυτά τα στοιχεία.
+            Με αυτήν την εφαρμογή,ο χρήστης μπορεί να επιλέξει ή να προσθέσει ένα νέο μέρος,το οποίο
+            έπειτα παρουσιάζεται στην εφαρμογή.
+
+        ]]>
+    </string>
+</resources>

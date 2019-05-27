@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_title">Σκοπός της εφαρμογής PlacePicker</string>
+
+    <string name="pick_title">Διαλέγοντας ένα μέρος</string>
+    <string name="pick_text">Κάνοντας κλικ στον παρακάτω σύνδεσμο,παρουσιάζεται ο χάρτης,
+        βάσει του οποίου μπορείτε να βρείτε την τοποθεσία που σας ενδιαφέρει κι έπειτα να δείτε ή
+        να προσθέσετε το μέρος που σας ενδιαφέρει.
+        Τα στοίχεια του επιθυμητού μέρους, όπως το όνομα,η διεύθυνση και η φωτογραφία,εμφανίζονται
+        σε ξεχωριστή κάρτα.
+</string>
+    <string name="pick_action">Διαλέξτε μέρος</string>
+
+    <string name="detail_text">Place id: %1$s\nΔιεύθυνση: %2$s\nΤηλέφωνο: %3$s\n\n%4$s</string>
+
+    <string name="empty"></string>
+</resources>
